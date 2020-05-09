@@ -29,7 +29,7 @@
 
 ## MVVM com Xamarin
 
-- Monkey Nights: Video Xamarin e MVVM https://www.youtube.com/watch?v=ZXcDM0EwalA&list=PLvbP1EN5jAwZR5yjp8GiqFyK5M7ZY6Fes
+- Monkey Nights: Video Xamarin e MVVM https://www.youtube.com/watch?v=ZXcDM0EwalA&list=PLvbP1EN5jAwZR5yjp8GiqFyK5M7ZY6Fes (video introdutório em português)
 - PRISM https://prismlibrary.com/
   - Criando seu primeiro app (video) https://www.youtube.com/watch?v=81Q2fxFWIqA
 - MVVM Cross https://www.mvvmcross.com/
@@ -74,6 +74,7 @@
   - https://www.lambda3.com.br/tag/xamarin-forms/
 - Monkey Nights https://mkn.dev/
 - Pedro Jesus https://medium.com/@pedro_jesus
+- Ricardo Prestes https://oficinadologan.wordpress.com/
 - Robson Amorim http://rsamorim.azurewebsites.net/
 - Thiago Bertuzzi https://medium.com/@bertuzzi
 
@@ -84,7 +85,6 @@
 - James Montemagno https://montemagno.com/
 - Javier Suárez https://javiersuarezruiz.wordpress.com/
 - Luis Pujols https://www.pujolsluis.com/
-- Ricardo Prestes https://oficinadologan.wordpress.com/
 - XamGirl https://xamgirl.com/blog/
 - XamBoy https://www.xamboy.com/
 
