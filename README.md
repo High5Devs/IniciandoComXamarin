@@ -24,8 +24,9 @@
 ## Desenvolvendo telas incríveis!
 
 - Aprenda a recriar recrie telas incríveis com Ione https://www.youtube.com/channel/UCD_Cgiqajwi-u-n3lYvp8Ig
-- Snppts Layouts incríveis prontos para downlaod https://snppts.dev/
+- Snppts Layouts incríveis prontos para download https://snppts.dev/
 - Repositório de UIs com Xamarin Forms https://github.com/jsuarezruiz/xamarin-forms-goodlooking-UI
+- Xamarin UI Challenges e mais no Blog do Kym Phillpotts https://kymphillpotts.com/tag/xamarin/
 
 ## MVVM com Xamarin
 
