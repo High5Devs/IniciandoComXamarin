@@ -20,6 +20,7 @@
 
 - https://docs.microsoft.com/pt-br/xamarin/
 - Acessando recursos do aparelho https://docs.microsoft.com/pt-br/xamarin/essentials/?context=xamarin/xamarin-forms
+- Learning Path Xamarin.Forms https://docs.microsoft.com/en-us/learn/paths/build-mobile-apps-with-xamarin-forms/
 
 ## Desenvolvendo telas incríveis!
 
