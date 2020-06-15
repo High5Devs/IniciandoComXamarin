@@ -1,4 +1,4 @@
-# Começando a desenvolvimento apps com Xamarin
+# Começando o desenvolvimento de apps com Xamarin
 
 ## O que é Xamarin?
 
@@ -8,7 +8,7 @@
 
 - Preparando o ambiente https://docs.microsoft.com/pt-br/xamarin/get-started/installation/?pivots=windows
 
-## Aprendendo Xamarin em video aulas do básico ao avançado
+## Aprendendo Xamarin em videoaulas do básico ao avançado
 
 - Maratona Live Xamarin Monkey Nights https://www.youtube.com/watch?v=U4zJuHJxJjY
 - Maratona Xamarin 2018 Microsoft http://aka.ms/maratonaxamarin2018
@@ -24,14 +24,14 @@
 
 ## Desenvolvendo telas incríveis!
 
-- Aprenda a recriar recrie telas incríveis com Ione https://www.youtube.com/channel/UCD_Cgiqajwi-u-n3lYvp8Ig
-- Snppts Layouts incríveis prontos para download https://snppts.dev/
+- Aprenda a recriar telas incríveis com Ione https://www.youtube.com/channel/UCD_Cgiqajwi-u-n3lYvp8Ig
+- Snppts: Layouts incríveis prontos para download https://snppts.dev/
 - Repositório de UIs com Xamarin Forms https://github.com/jsuarezruiz/xamarin-forms-goodlooking-UI
 - Xamarin UI Challenges e mais no Blog do Kym Phillpotts https://kymphillpotts.com/tag/xamarin/
 
 ## MVVM com Xamarin
 
-- Monkey Nights: Video Xamarin e MVVM https://www.youtube.com/watch?v=ZXcDM0EwalA&list=PLvbP1EN5jAwZR5yjp8GiqFyK5M7ZY6Fes (video introdutório em português)
+- Monkey Nights: Vídeo Xamarin e MVVM https://www.youtube.com/watch?v=ZXcDM0EwalA&list=PLvbP1EN5jAwZR5yjp8GiqFyK5M7ZY6Fes (vídeo introdutório em português)
 - PRISM https://prismlibrary.com/
   - Criando seu primeiro app (video) https://www.youtube.com/watch?v=81Q2fxFWIqA
 - MVVM Cross https://www.mvvmcross.com/
@@ -54,7 +54,7 @@
 - .NET Conf focus on Xamarin https://focus.dotnetconf.net/
   - O .NET Conf é um evento oficial da Microsoft sobre as novidades do .NET. Os eventos Focus, como este, são focados apenas em uma tecnologia
 - Micorosft Build https://mybuild.microsoft.com/
-  - Evento anual da microsoft sobre novidades do mundo de desenvolvimento micorosft
+  - Evento anual da Microsoft sobre novidades do mundo de desenvolvimento Microsoft
 
 ## Youtube
 
@@ -63,7 +63,7 @@
 
 ## Conteúdos diversos sobre Xamarin
 
-### Blog nacionais com conetúdo em português
+### Blog nacionais com conteúdo em português
 
 - Cleiton Felipe https://medium.com/@cleiton_felipe
 - High5Devs
@@ -94,4 +94,4 @@
 
 - Plannet Xamarin https://www.planetxamarin.com/
 
-# Faltou algum conteúdo que você consome nesta lista? Você produz conteúdo sobra Xamarin e não está na lista? Abre um PR pra gente!
+# Faltou algum conteúdo que você consome nesta lista? Você produz conteúdo sobre Xamarin e não está na lista? Abre um PR pra gente!
