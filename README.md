@@ -15,6 +15,7 @@
 - Microsoft Learn https://dotnet.microsoft.com/learn/xamarin (inglês)
 - Hello World em 10 minutos! https://dotnet.microsoft.com/learn/xamarin/hello-world-tutorial/intro (inglês)
 - Acessando recursos do Aparelho https://www.youtube.com/watch?v=hhJYM4nZfbI&list=PLM75ZaNQS_Fa6UdCieXUcVubIV3-MDXDV (inglês)
+- Fall In Love With Reflection http://dominiotic.com/fall-in-love-with-reflection/ (espanhol)
 
 ## A documentação oficial
 
@@ -79,6 +80,7 @@
 - Ricardo Prestes https://oficinadologan.wordpress.com/
 - Robson Amorim http://rsamorim.azurewebsites.net/
 - Thiago Bertuzzi https://medium.com/@bertuzzi
+- Letticia Nicoli https://www.slideshare.net/letticianicoli
 
 ### Blogs Internacionais
 
@@ -89,6 +91,15 @@
 - Luis Pujols https://www.pujolsluis.com/
 - XamGirl https://xamgirl.com/blog/
 - XamBoy https://www.xamboy.com/
+- Maddy Leger https://devblogs.microsoft.com/xamarin/author/malegermicrosoft-com/
+- Jayme Singleton https://devblogs.microsoft.com/xamarin/author/jaymesingleton/
+- Theodora Tataru https://devblogs.microsoft.com/xamarin/author/tatarutheodora/
+- Azahara Fernández https://medium.com/@azaharafernandezguizan
+- Codrina Merigo https://sessionize.com/codrina-merigo/
+- Hamida Rebai https://dzone.com/users/3106850/didourebai.html
+- Layla Porter https://www.twitch.tv/laylacodesit
+- Rositsa Fakalieva https://www.telerik.com/blogs/author/rossitza-fakalieva
+- Sorey García https://channel9.msdn.com/Niners/soreygarcia
 
 ### Agregador de Blogs
 
