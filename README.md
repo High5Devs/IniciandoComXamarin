@@ -15,6 +15,7 @@
 - Microsoft Learn https://dotnet.microsoft.com/learn/xamarin (inglês)
 - Hello World em 10 minutos! https://dotnet.microsoft.com/learn/xamarin/hello-world-tutorial/intro (inglês)
 - Acessando recursos do Aparelho https://www.youtube.com/watch?v=hhJYM4nZfbI&list=PLM75ZaNQS_Fa6UdCieXUcVubIV3-MDXDV (inglês)
+- Fall In Love With Reflection http://dominiotic.com/fall-in-love-with-reflection/ (espanhol)
 
 ## A documentação oficial
 
@@ -74,6 +75,7 @@
 - Lambda3
   - https://www.lambda3.com.br/tag/xamarin/
   - https://www.lambda3.com.br/tag/xamarin-forms/
+- Letticia Nicoli https://www.slideshare.net/letticianicoli
 - Monkey Nights https://mkn.dev/
 - Pedro Jesus https://medium.com/@pedro_jesus
 - Ricardo Prestes https://oficinadologan.wordpress.com/
@@ -83,10 +85,19 @@
 ### Blogs Internacionais
 
 - AskXammy https://askxammy.com/
+- Azahara Fernández https://medium.com/@azaharafernandezguizan
+- Codrina Merigo https://sessionize.com/codrina-merigo/
 - Daniel Causer https://causerexception.com/
+- Hamida Rebai https://dzone.com/users/3106850/didourebai.html
 - James Montemagno https://montemagno.com/
 - Javier Suárez https://javiersuarezruiz.wordpress.com/
+- Jayme Singleton https://devblogs.microsoft.com/xamarin/author/jaymesingleton/
+- Layla Porter https://www.twitch.tv/laylacodesit
 - Luis Pujols https://www.pujolsluis.com/
+- Maddy Leger https://devblogs.microsoft.com/xamarin/author/malegermicrosoft-com/
+- Rositsa Fakalieva https://www.telerik.com/blogs/author/rossitza-fakalieva
+- Sorey García https://channel9.msdn.com/Niners/soreygarcia
+- Theodora Tataru https://devblogs.microsoft.com/xamarin/author/tatarutheodora/
 - XamGirl https://xamgirl.com/blog/
 - XamBoy https://www.xamboy.com/
 
