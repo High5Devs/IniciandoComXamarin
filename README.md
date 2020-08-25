@@ -75,31 +75,31 @@
 - Lambda3
   - https://www.lambda3.com.br/tag/xamarin/
   - https://www.lambda3.com.br/tag/xamarin-forms/
+- Letticia Nicoli https://www.slideshare.net/letticianicoli
 - Monkey Nights https://mkn.dev/
 - Pedro Jesus https://medium.com/@pedro_jesus
 - Ricardo Prestes https://oficinadologan.wordpress.com/
 - Robson Amorim http://rsamorim.azurewebsites.net/
 - Thiago Bertuzzi https://medium.com/@bertuzzi
-- Letticia Nicoli https://www.slideshare.net/letticianicoli
 
 ### Blogs Internacionais
 
 - AskXammy https://askxammy.com/
-- Daniel Causer https://causerexception.com/
-- James Montemagno https://montemagno.com/
-- Javier Suárez https://javiersuarezruiz.wordpress.com/
-- Luis Pujols https://www.pujolsluis.com/
-- XamGirl https://xamgirl.com/blog/
-- XamBoy https://www.xamboy.com/
-- Maddy Leger https://devblogs.microsoft.com/xamarin/author/malegermicrosoft-com/
-- Jayme Singleton https://devblogs.microsoft.com/xamarin/author/jaymesingleton/
-- Theodora Tataru https://devblogs.microsoft.com/xamarin/author/tatarutheodora/
 - Azahara Fernández https://medium.com/@azaharafernandezguizan
 - Codrina Merigo https://sessionize.com/codrina-merigo/
+- Daniel Causer https://causerexception.com/
 - Hamida Rebai https://dzone.com/users/3106850/didourebai.html
+- James Montemagno https://montemagno.com/
+- Javier Suárez https://javiersuarezruiz.wordpress.com/
+- Jayme Singleton https://devblogs.microsoft.com/xamarin/author/jaymesingleton/
 - Layla Porter https://www.twitch.tv/laylacodesit
+- Luis Pujols https://www.pujolsluis.com/
+- Maddy Leger https://devblogs.microsoft.com/xamarin/author/malegermicrosoft-com/
 - Rositsa Fakalieva https://www.telerik.com/blogs/author/rossitza-fakalieva
 - Sorey García https://channel9.msdn.com/Niners/soreygarcia
+- Theodora Tataru https://devblogs.microsoft.com/xamarin/author/tatarutheodora/
+- XamGirl https://xamgirl.com/blog/
+- XamBoy https://www.xamboy.com/
 
 ### Agregador de Blogs
 
