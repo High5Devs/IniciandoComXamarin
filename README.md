@@ -103,6 +103,6 @@
 
 ### Agregador de Blogs
 
-- Plannet Xamarin https://www.planetxamarin.com/
+- Planet Xamarin https://www.planetxamarin.com/
 
 # Faltou algum conteúdo que você consome nesta lista? Você produz conteúdo sobre Xamarin e não está na lista? Abre um PR pra gente!
